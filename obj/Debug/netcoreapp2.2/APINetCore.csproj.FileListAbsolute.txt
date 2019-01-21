@@ -1,0 +1,14 @@
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\bin\Debug\netcoreapp2.2\APINetCore.deps.json
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\bin\Debug\netcoreapp2.2\APINetCore.runtimeconfig.json
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\bin\Debug\netcoreapp2.2\APINetCore.runtimeconfig.dev.json
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\bin\Debug\netcoreapp2.2\APINetCore.dll
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\bin\Debug\netcoreapp2.2\APINetCore.pdb
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\obj\Debug\netcoreapp2.2\APINetCore.csprojAssemblyReference.cache
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\obj\Debug\netcoreapp2.2\APINetCore.csproj.CoreCompileInputs.cache
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\obj\Debug\netcoreapp2.2\APINetCore.RazorAssemblyInfo.cache
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\obj\Debug\netcoreapp2.2\APINetCore.RazorAssemblyInfo.cs
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\obj\Debug\netcoreapp2.2\APINetCore.AssemblyInfoInputs.cache
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\obj\Debug\netcoreapp2.2\APINetCore.AssemblyInfo.cs
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\obj\Debug\netcoreapp2.2\APINetCore.RazorTargetAssemblyInfo.cache
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\obj\Debug\netcoreapp2.2\APINetCore.dll
+E:\TranTrungNghia\Project\StudentTestProject\APINetCore\obj\Debug\netcoreapp2.2\APINetCore.pdb
